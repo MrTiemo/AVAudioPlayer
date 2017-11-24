@@ -89,6 +89,9 @@
     // 定义一个定时器，更新进度条
     _timer = [NSTimer scheduledTimerWithTimeInterval:0.1 target:self selector:@selector(update) userInfo:nil repeats:YES];
     
+    
+    
+    //修改测试
 
 }
 
